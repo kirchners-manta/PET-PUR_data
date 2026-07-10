@@ -1,0 +1,27 @@
+# This file was created Tue Oct 28 13:58:07 2025
+# Created by:
+#                      :-) GROMACS - gmx energy, 2023.2 (-:
+# 
+# Executable:   /software-gpu01/gromacs-2023.2/bin/gmx
+# Data prefix:  /software-gpu01/gromacs-2023.2
+# Working dir:  /kstor1/dawer/d-PetPur-yw-2025/energy-min/PET/50ns/46
+# Command line:
+#   gmx energy -f em2.edr
+# gmx energy is part of G R O M A C S:
+#
+# Getting the Right Output Means no Artefacts in Calculating Stuff
+#
+@    title "GROMACS Energies"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "(kJ/mol)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Potential"
+    0.000000  38469.105469
+    0.000000  37695.031250
+  666.000000  26539.349609
