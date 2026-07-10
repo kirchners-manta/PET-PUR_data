@@ -1,0 +1,27 @@
+# This file was created Sat Jan 10 19:44:46 2026
+# Created by:
+#                      :-) GROMACS - gmx energy, 2023.2 (-:
+# 
+# Executable:   /software-gpu01/gromacs-2023.2/bin/gmx
+# Data prefix:  /software-gpu01/gromacs-2023.2
+# Working dir:  /kstor1/dawer/PhD/d-PetPur-yw-2025/energy-min/PUR/50ns/40
+# Command line:
+#   gmx energy -f em2.edr
+# gmx energy is part of G R O M A C S:
+#
+# Glycine aRginine prOline Methionine Alanine Cystine Serine
+#
+@    title "GROMACS Energies"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "(kJ/mol)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Potential"
+    0.000000  -37792.371094
+    0.000000  -38567.855469
+  776.000000  -50560.781250
