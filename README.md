@@ -1,5 +1,5 @@
 # PET-PUR_data
-Here we provide the data corresponding to the "Swelling in the Eye of Secondary Interactions" manuscript.
+Here we provide the data corresponding to the "Swelling of Nanoplastics in the Eye of Secondary Interactions" manuscript.
 
 
 ## Folder Structure
